@@ -1,24 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-tela de login
+-página principal com logo da ability e navbar com acesso para 2 cadastros:
+-group: id, description
+-product: id, description, price, group_id
+-os 2 cadastros deverão ser um CRUD onde a tela de pesquisa deverá ter um campo para pesquisa por descrição
+-deverá ser usado o bootstrap e banco postgresql
+-após finalizar subir o projeto para o github
